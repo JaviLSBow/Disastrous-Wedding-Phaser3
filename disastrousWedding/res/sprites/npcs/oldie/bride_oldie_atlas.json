@@ -1,0 +1,268 @@
+{
+    "frames": [
+        {
+            "filename": "brideoldie1",
+            "frame": {
+                "w": 82,
+                "h": 100,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideoldie2",
+            "frame": {
+                "w": 82,
+                "h": 100,
+                "x": 82,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideoldie3",
+            "frame": {
+                "w": 82,
+                "h": 100,
+                "x": 0,
+                "y": 100
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideoldie4",
+            "frame": {
+                "w": 82,
+                "h": 100,
+                "x": 82,
+                "y": 100
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideoldie5",
+            "frame": {
+                "w": 82,
+                "h": 100,
+                "x": 164,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideoldie6",
+            "frame": {
+                "w": 82,
+                "h": 100,
+                "x": 164,
+                "y": 100
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideoldie7",
+            "frame": {
+                "w": 82,
+                "h": 100,
+                "x": 0,
+                "y": 200
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideoldie8",
+            "frame": {
+                "w": 82,
+                "h": 100,
+                "x": 82,
+                "y": 200
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideoldie9",
+            "frame": {
+                "w": 82,
+                "h": 100,
+                "x": 164,
+                "y": 200
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideoldie10",
+            "frame": {
+                "w": 82,
+                "h": 100,
+                "x": 246,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideoldie11",
+            "frame": {
+                "w": 82,
+                "h": 100,
+                "x": 246,
+                "y": 100
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideoldie12",
+            "frame": {
+                "w": 82,
+                "h": 100,
+                "x": 246,
+                "y": 200
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideoldie13",
+            "frame": {
+                "w": 82,
+                "h": 100,
+                "x": 0,
+                "y": 300
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideoldie14",
+            "frame": {
+                "w": 82,
+                "h": 100,
+                "x": 82,
+                "y": 300
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideoldie15",
+            "frame": {
+                "w": 82,
+                "h": 100,
+                "x": 164,
+                "y": 300
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideoldie16",
+            "frame": {
+                "w": 82,
+                "h": 100,
+                "x": 246,
+                "y": 300
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideoldie17",
+            "frame": {
+                "w": 82,
+                "h": 100,
+                "x": 328,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideoldie18",
+            "frame": {
+                "w": 82,
+                "h": 100,
+                "x": 328,
+                "y": 100
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideoldie19",
+            "frame": {
+                "w": 82,
+                "h": 100,
+                "x": 328,
+                "y": 200
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideoldie20",
+            "frame": {
+                "w": 82,
+                "h": 100,
+                "x": 328,
+                "y": 300
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

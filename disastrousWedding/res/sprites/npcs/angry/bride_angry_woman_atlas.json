@@ -1,0 +1,268 @@
+{
+    "frames": [
+        {
+            "filename": "brideangrywoman1",
+            "frame": {
+                "w": 64,
+                "h": 118,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideangrywoman20",
+            "frame": {
+                "w": 64,
+                "h": 118,
+                "x": 64,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideangrywoman2",
+            "frame": {
+                "w": 64,
+                "h": 118,
+                "x": 0,
+                "y": 118
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideangrywoman3",
+            "frame": {
+                "w": 64,
+                "h": 118,
+                "x": 64,
+                "y": 118
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideangrywoman4",
+            "frame": {
+                "w": 64,
+                "h": 118,
+                "x": 128,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideangrywoman5",
+            "frame": {
+                "w": 64,
+                "h": 118,
+                "x": 128,
+                "y": 118
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideangrywoman6",
+            "frame": {
+                "w": 64,
+                "h": 118,
+                "x": 192,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideangrywoman7",
+            "frame": {
+                "w": 64,
+                "h": 118,
+                "x": 192,
+                "y": 118
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideangrywoman8",
+            "frame": {
+                "w": 64,
+                "h": 118,
+                "x": 0,
+                "y": 236
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideangrywoman9",
+            "frame": {
+                "w": 64,
+                "h": 118,
+                "x": 64,
+                "y": 236
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideangrywoman10",
+            "frame": {
+                "w": 64,
+                "h": 118,
+                "x": 128,
+                "y": 236
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideangrywoman11",
+            "frame": {
+                "w": 64,
+                "h": 118,
+                "x": 192,
+                "y": 236
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideangrywoman12",
+            "frame": {
+                "w": 64,
+                "h": 118,
+                "x": 256,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideangrywoman13",
+            "frame": {
+                "w": 64,
+                "h": 118,
+                "x": 256,
+                "y": 118
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideangrywoman14",
+            "frame": {
+                "w": 64,
+                "h": 118,
+                "x": 256,
+                "y": 236
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideangrywoman15",
+            "frame": {
+                "w": 64,
+                "h": 118,
+                "x": 320,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideangrywoman16",
+            "frame": {
+                "w": 64,
+                "h": 118,
+                "x": 320,
+                "y": 118
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideangrywoman17",
+            "frame": {
+                "w": 64,
+                "h": 118,
+                "x": 320,
+                "y": 236
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideangrywoman18",
+            "frame": {
+                "w": 64,
+                "h": 118,
+                "x": 0,
+                "y": 354
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "brideangrywoman19",
+            "frame": {
+                "w": 64,
+                "h": 118,
+                "x": 64,
+                "y": 354
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

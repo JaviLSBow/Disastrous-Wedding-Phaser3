@@ -1,0 +1,268 @@
+{
+    "frames": [
+        {
+            "filename": "dancers1",
+            "frame": {
+                "w": 116,
+                "h": 144,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dancers20",
+            "frame": {
+                "w": 116,
+                "h": 144,
+                "x": 116,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dancers2",
+            "frame": {
+                "w": 116,
+                "h": 144,
+                "x": 0,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dancers3",
+            "frame": {
+                "w": 116,
+                "h": 144,
+                "x": 116,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dancers4",
+            "frame": {
+                "w": 116,
+                "h": 144,
+                "x": 232,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dancers5",
+            "frame": {
+                "w": 116,
+                "h": 144,
+                "x": 232,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dancers6",
+            "frame": {
+                "w": 116,
+                "h": 144,
+                "x": 0,
+                "y": 288
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dancers7",
+            "frame": {
+                "w": 116,
+                "h": 144,
+                "x": 116,
+                "y": 288
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dancers8",
+            "frame": {
+                "w": 116,
+                "h": 144,
+                "x": 232,
+                "y": 288
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dancers9",
+            "frame": {
+                "w": 116,
+                "h": 144,
+                "x": 348,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dancers10",
+            "frame": {
+                "w": 116,
+                "h": 144,
+                "x": 348,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dancers11",
+            "frame": {
+                "w": 116,
+                "h": 144,
+                "x": 348,
+                "y": 288
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dancers12",
+            "frame": {
+                "w": 116,
+                "h": 144,
+                "x": 0,
+                "y": 432
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dancers13",
+            "frame": {
+                "w": 116,
+                "h": 144,
+                "x": 116,
+                "y": 432
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dancers14",
+            "frame": {
+                "w": 116,
+                "h": 144,
+                "x": 232,
+                "y": 432
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dancers15",
+            "frame": {
+                "w": 116,
+                "h": 144,
+                "x": 348,
+                "y": 432
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dancers16",
+            "frame": {
+                "w": 116,
+                "h": 144,
+                "x": 464,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dancers17",
+            "frame": {
+                "w": 116,
+                "h": 144,
+                "x": 464,
+                "y": 144
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dancers18",
+            "frame": {
+                "w": 116,
+                "h": 144,
+                "x": 464,
+                "y": 288
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "dancers19",
+            "frame": {
+                "w": 116,
+                "h": 144,
+                "x": 464,
+                "y": 432
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}
